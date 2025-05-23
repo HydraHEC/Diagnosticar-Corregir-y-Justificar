@@ -1,1 +1,18 @@
 # Diagnosticar-Corregir-y-Justificar
+
+### Estudiante:
+- Jose Cornejo - Patrones de Diseño (Seccion 2)
+
+## ✅ Descripción General del Repositorio
+el proposito de este es el diagnostico y correccion de errores y justificacion de soluciones sobre un caso en un contexto de trabajo universitario con nota.
+
+## Escenario Base: Sistema de Reserva de Salas
+"un instituto desea implementar un sistema digital para que estudiantes y personal puedan reservar salas de estudio"
+"el sistema debe permitir:"
+- reservar una sala en un horario disponible
+- cancelar una reserva (opcionalmente con motivo)
+- ver historial de reservas
+- el administrador puede aprobar o rechazar reservas
+- el sistema puede enviar notificaciones por correo al usuario si hay cambios
+
+### Diagrama
