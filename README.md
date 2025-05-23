@@ -20,5 +20,6 @@ el proposito de este es el diagnostico y correccion de errores y justificacion d
 ![img](u2_pt_n4_2_1.png)
 ### Correccion Caso de uso:
 1. primer error: el diagrama no cuenta con declaraciones de `<<include>>` y `<<extend>>` propias de un Caso de Uso
-2. segundo error: el diagrama cuenta con una parte donde las flechas se cruzan entre si, esto no deberia ocurrir en un caso de uso puesto a que estan diseñados para entenderse a simple vista
+2. segundo error: el diagrama cuenta con una parte donde las flechas se cruzan entre si, esto no deberia ocurrir en un caso de uso puesto a que estan diseñados para entenderse a simple vista. puede verlo en el recorte a continuacion:
 ![img](edit_01.png)
+![img](edit_02.png)
