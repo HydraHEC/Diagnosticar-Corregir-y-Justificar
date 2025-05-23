@@ -15,4 +15,8 @@ el proposito de este es el diagnostico y correccion de errores y justificacion d
 - el administrador puede aprobar o rechazar reservas
 - el sistema puede enviar notificaciones por correo al usuario si hay cambios
 
-### Diagrama
+### Diagrama Casos de Uso
+- original (Con errores):
+![img](u2_pt_n4_1.jpg)
+### Correccion Caso de uso:
+1. hola
