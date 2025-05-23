@@ -30,3 +30,10 @@ el proposito de este es el diagnostico y correccion de errores y justificacion d
 - original (Con errores):
 
 ![img](u2_pt_n4_2.jpg)
+### Correccion Clases:
+1. primer error: la clase reserva no esta conectada a ninguna otra clase. puede verlo en el recorte a continuacion:
+![img](edit_04.png).
+2. segundo error: la asociacion entre la clase usuario y sala es la unica que tiene un texto descriptivo
+![img](edit_05.png).
+3. tercer error: la clase usuario hereda de administrador, cuando deberia ser al reves:
+![inmg](edit_06.png). 
